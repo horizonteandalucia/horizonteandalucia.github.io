@@ -312,3 +312,117 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
+
+
+#programa{
+  background-color: white;
+  color: black;
+}
+section.programa li {
+    clear: both;
+    overflow: hidden;
+    margin-bottom: 3rem;
+    padding-left: 2.3rem;
+    position: relative;
+}
+section.programa li:before {
+    position: absolute;
+    content: " ";
+    width: 2rem;
+    height: 2rem;
+    background: #f2f2f2 url(../img/icoCircleGris.png);
+    left: 0;
+    top: 0;
+    border-bottom: 0.2rem solid #f2f2f2;
+    border-top: 0.2rem solid #f2f2f2;
+}
+section.programa li.cafe:before {
+    background-image: url(../img/icoCafe.svg);
+    background-repeat: no-repeat;
+    width: 2.3rem;
+}
+section.programa li.descanso:before {
+    background-image: url(../img/icoDescanso.svg);
+    background-repeat: no-repeat;
+    width: 2.3rem;
+}
+section.programa li.comida:before {
+    background-image: url(../img/icoComida.png);
+    background-repeat: no-repeat;
+    background-position: 0 4px;
+    width: 2.3rem;
+}
+section.programa li:first-child:before, section.programa li:last-child:before {
+    background-image: url(../img/icoCirclePink.png);
+    background-repeat: no-repeat;
+}
+section.programa li:last-child:before {
+    height: 100%;
+}
+section.programa li .hora {
+    float: left;
+    width: 6rem;
+    text-align: right;
+    color: #767676;
+    font-family: Poppins, sans-serif;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 2.8rem;
+    margin-right: 3rem;
+}
+section.programa li > .titulo {
+    float: left;
+    color: #000;
+    font-family: Poppins, sans-serif;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 2.8rem;
+}
+section.programa li > .titulo strong {
+    font-weight: 700;
+}
+section.programa li .charla {
+    float: left;
+    width: 80rem;
+    font-family: Poppins, sans-serif;
+    font-size: 1.8rem;
+    line-height: 2.8rem;
+    overflow: hidden;
+    margin-top: 0.4rem;
+}
+
+
+li .charla img {
+    float: left;
+    width: 5.5rem;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+}
+li .charla .nombre {
+    font-weight: 700;
+    /*color: #e42f67;*/
+    margin-bottom: 0.5rem;
+    margin-top: -0.5rem;
+}
+
+li .charla .titulo {
+    font-style: italic;
+}
+
+li .charla .pendiente {
+    color:#ccc;
+}
+
+li .charla .titulo em {
+    font-style:normal;
+    background-color: #bebebe;
+    color: #fff;
+    padding: 0px 10px;
+    font-size: 1.4rem;
+    margin-left: 1rem;
+    border-radius: 20px;
+}
+
+li .charla .titulo span {
+  display: none;
+}
