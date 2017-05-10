@@ -116,6 +116,9 @@ a:focus {
     background: #80b567;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
+  .programp{
+    width:80%;
+  }
 }
 .intro {
   display: table;
@@ -151,6 +154,9 @@ a:focus {
   }
   .intro .intro-body .intro-text {
     font-size: 26px;
+  }
+  .programp{
+    width:80%;
   }
 }
 .btn-circle {
@@ -260,6 +266,9 @@ a:focus {
     width: 100%;
     margin-top: 0%;
   }
+  .programp{
+    width:80%;
+  }
 }
 .btn {
   text-transform: uppercase;
@@ -288,6 +297,9 @@ ul.banner-social-buttons {
 @media (max-width: 1199px) {
   ul.banner-social-buttons {
     margin-top: 15px;
+  }
+  .programp{
+    width:80%;
   }
 }
 @media (max-width: 767px) {
@@ -534,20 +546,11 @@ li .charla .titulo span {
     line-height: 2.8rem;
     padding-bottom: 3rem;
 }
-iframe {
-    pointer-events: none;
-}
 
-.videoWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
+
+.space-top{
+  margin-top: 500px;
 }
-.videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+.padding-top{
+  padding-top: 100px;
 }
