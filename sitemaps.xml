@@ -4,13 +4,13 @@
     
       <url>
 
-        <loc>http://horizonteandalucia.org///taller-financiacion-autonomica.html</loc>
+        <loc>http://horizonteandalucia.org//taller-financiacion-autonomica.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org///taller-financiacion-autonomica.html" />
+          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org//taller-financiacion-autonomica.html" />
         
-          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org///cambio-ciudadano.html" />
+          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org//cambio-ciudadano.html" />
         
         
         <lastmod>2017-12-02T00:00:00+01:00</lastmod>
@@ -21,13 +21,13 @@
     
       <url>
 
-        <loc>http://horizonteandalucia.org///cambio-ciudadano.html</loc>
+        <loc>http://horizonteandalucia.org//cambio-ciudadano.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org///taller-financiacion-autonomica.html" />
+          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org//taller-financiacion-autonomica.html" />
         
-          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org///cambio-ciudadano.html" />
+          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org//cambio-ciudadano.html" />
         
         
         <lastmod>2017-06-01T00:00:00+02:00</lastmod>
@@ -38,24 +38,11 @@
   
     
       <url>
-        <loc>http://horizonteandalucia.org///404.html</loc>
+        <loc>http://horizonteandalucia.org//404.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org///404.html" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://horizonteandalucia.org///about.html</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org///about.html" />
+          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org//404.html" />
         
         
         <changefreq>weekly</changefreq>
@@ -64,24 +51,11 @@
   
     
       <url>
-        <loc>http://horizonteandalucia.org///contact.html</loc>
+        <loc>http://horizonteandalucia.org//about.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="http://horizonteandalucia.org///contact.html" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://horizonteandalucia.org///feed-es.xml</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org///feed-es.xml" />
+          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org//about.html" />
         
         
         <changefreq>weekly</changefreq>
@@ -90,24 +64,11 @@
   
     
       <url>
-        <loc>http://horizonteandalucia.org///index.html</loc>
+        <loc>http://horizonteandalucia.org//contact.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org///index.html" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>http://horizonteandalucia.org///projects.html</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org///projects.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="http://horizonteandalucia.org//contact.html" />
         
         
         <changefreq>weekly</changefreq>
@@ -116,7 +77,12 @@
   
     
       <url>
-        <loc>http://horizonteandalucia.org///sitemaps.xml</loc>
+        <loc>http://horizonteandalucia.org//feed-es.xml</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org//feed-es.xml" />
+        
         
         <changefreq>weekly</changefreq>
       </url>
@@ -124,7 +90,41 @@
   
     
       <url>
-        <loc>http://horizonteandalucia.org///assets/css/style.css</loc>
+        <loc>http://horizonteandalucia.org//index.html</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org//index.html" />
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://horizonteandalucia.org//projects.html</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="es" href="http://horizonteandalucia.org//projects.html" />
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://horizonteandalucia.org//sitemaps.xml</loc>
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://horizonteandalucia.org//assets/css/style.css</loc>
         
         <changefreq>weekly</changefreq>
       </url>
