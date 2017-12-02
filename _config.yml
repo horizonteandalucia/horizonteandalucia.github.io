@@ -10,8 +10,8 @@ title: Horizonte Andalucía
 email: horizonteandalucia@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Somos profesoras y profesores de distintas facultades y escuelas de la Universidad de Sevilla, profesionales, estudiantes y en general personas con experiencia en la participación social preocupados por la prolongada situación de estancamiento que vive Andalucía. Nuestra tierra tiene graves carencias sociales, económicas y políticas que es necesario abordar con rigor y honestidad. Creemos que con un pie en la Universidad tenemos adquirida una responsabilidad con la sociedad, de la que formamos parte, y a la que nos debemos.
-baseurl: "/jekyll-theme-simple-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.gitlab.io" # change this to the base hostname & protocol for your site
+baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "http://horizonteandalucia.org/" # change this to the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
